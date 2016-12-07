@@ -173,4 +173,3 @@ print crossValid(matXtrain, VecYtrain, s, parameters)
 
 
 
-
